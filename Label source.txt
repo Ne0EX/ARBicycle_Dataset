@@ -1,0 +1,6 @@
+Here is the source of the label and image file : https://storage.googleapis.com/labelbox-exports/ck5uwv35m44kb0867mm1jk3s3/ck6rqrabcrf8p0911yskci580/export-2020-02-20T11%3A01%3A28.679Z.json?AWSAccessKeyId=GOOG5BS3SLXO4XQKD4QLNX24&Expires=1583406089&Signature=DIA6aDCnuGUjujd%2FuK%2Bio6x8tss%3D
+
+It's in the format of JSON file.
+
+Good luck for developing.
+Ne0EX
